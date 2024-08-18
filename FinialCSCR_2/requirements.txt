@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib 
+autodistill-grounding-dino 
+segment-anything  
+pytorch  
+ 
