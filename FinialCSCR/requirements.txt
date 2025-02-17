@@ -1,9 +1,0 @@
-numpy
-pandas
-matplotlib 
-fiona 
-dask 
-dask[dataframe]
-GeoPandas 
-dask-geopandas 
-autodistill-grounding-dino 
